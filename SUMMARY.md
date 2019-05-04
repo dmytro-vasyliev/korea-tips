@@ -5,5 +5,6 @@
 
 ## Transport
 
-* [Mobike](transport/mobike.md)
+* [Bicycles](transport/bicycles/README.md)
+  * [Mobike](transport/bicycles/mobike.md)
 
